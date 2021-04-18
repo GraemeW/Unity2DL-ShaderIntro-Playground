@@ -37,6 +37,6 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _PeriodA: 10
-    - _PeriodB: 15
+    - _PeriodB: 1
     m_Colors: []
   m_BuildTextureStacks: []
